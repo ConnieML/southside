@@ -3,11 +3,11 @@ var accountSid = "AC595d7affd2fb2cdb37a528cb25e5d63f";
 
 
 var appConfig = {
-  // Uncomment the following lines to enable automatic log innn
+  // Uncomment the following lines to enable automatic log in
   
-  // sso: {
-  //   accountSid: AC595d7affd2fb2cdb37a528cb25e5d63f
-  // }
+  sso: {
+    accountSid: AC595d7affd2fb2cdb37a528cb25e5d63f
+  }
   // sdkOptions: {
   //   worker: {
   //     logLevel: "error"
